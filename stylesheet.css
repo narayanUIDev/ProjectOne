@@ -1,0 +1,44 @@
+body{
+    background-color:#fff;
+    font-family:roboto;
+}
+.container{
+    width: 650px;
+    margin: 35px auto;
+    border: 4px solid #2964C2;
+    border-radius:6px;
+}
+header{
+    text-align:center;
+    font-size:35px;
+    height:45px;
+    color:#093175;
+}
+.navbar{
+    background-color:#051A3C;
+    color:white;
+    font-size:18px;
+    padding:2px;
+}
+.navbar li{
+    display:inline-block;
+    padding:18px;
+}
+.navbar a{
+    text-decoration:none;
+}
+.content{
+    padding:15px;
+}
+.content h1{
+    color:#093175;
+    font-size:25px;
+}
+.content p{
+    font-size:15px;
+}
+footer{
+    text-align:center;
+    font-size:15px;
+    color:#C5DDFA;
+}
